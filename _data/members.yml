@@ -1,7 +1,13 @@
-
+- name: Mik Black
+  affiliation: University of Otago, Department of Biochemistry
+  github: mikblack
+  interests:
+    - Software Carpentry
+    - Statistics
+ 
 - name: James Boocock
   affiliation: University of Otago, Department of Biochemistry
-  github: smilefreak
+  github: theboocock
   interests:
     - Programming
     - Genomics
@@ -11,9 +17,10 @@
   affiliation: University of Otago, Department of Biochemistry
   github: TomKellyGenetics
   interests:
-    - Applied Mathematics
     - Cancer Genomics
     - Evolution
+    - Long Walks on the Beach
+
 
 - name: Murray Cadzow
   affiliation: University of Otago, Department of Biochemistry
@@ -22,6 +29,15 @@
     - Programming
     - Genomics
     - Human Health and Disease
+
+    
+- name: Riku Takei
+  affiliation: University of Otago, Department of Biochemistry
+  github: rikutakei
+  interests:
+    - Programming
+    - Cancer Genetics
+
 
 - name: Rebekah Wrigley
   affiliation: University of Otago, Department of Biochemistry
@@ -53,6 +69,17 @@
     - Public Health
     - Stem Cells Biology
 
+- name: Tahzeeb Fatima
+  affiliation: Department of Biochemistry, University of Otago
+  github: Tahzeeb
+  interests:
+    - Biochemistry
+    - Genomics
+    - Bioinformatics
+    - Human Physiology
+    - Endocrinology
+
+
 - name: Van
   affiliation: University of Otago, Department of Biochemistry
   github: caucloud
@@ -69,6 +96,7 @@
     - Bioinformatics
     - Indie rock music
 
+
 - name: Joseph Saunderson
   affiliation: University of Otago, Department of Computer Science
   github: xeonz
@@ -76,6 +104,7 @@
     - Programming
     - NFC/RFID Technologies
     - Long walks on the beach
+
 
 - name: Amara Shaukat
   affiliation: Department of Biochemistry, University of Otago
@@ -85,10 +114,18 @@
     - Genomics
     - Bioinformatics
 
+
 - name: Tahzeeb Fatima
   affiliation: Department of Biochemistry, University of Otago
   github: Tahzeeb-Fatima
+
+    
+- name: Matt Bixley
+  affiliation: Department of Biochemistry, University of Otago
+  github: MattBixley
   interests:
     - Health and Disease
     - Genomics
     - Bioinformatics
+    - Statistics
+

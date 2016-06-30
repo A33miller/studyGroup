@@ -1,5 +1,6 @@
-Mozilla Study Groups
-============
+###[Leia isto em Português](https://github.com/mozillascience/studyGroup/blob/gh-pages/README-pt.md)
+
+#Mozilla Study Groups
 
 [![Join the chat at https://gitter.im/smilefreak/studyGroup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/smilefreak/studyGroup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
